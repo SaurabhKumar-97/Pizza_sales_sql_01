@@ -24,7 +24,7 @@ Order_details dataset:- order_details.csv
 
 Order dataset:orders.csv
 
-Pizza_types dataset:pizza_types.csv
+Pizza_types dataset:[pizza_types.csv](https://github.com/SaurabhKumar-97/Pizza_sales_sql_01/blob/aa83830016fcc46b3a709405efb8f13e854ea770/pizza_types.csv)
 
 Pizzas dataset:https://github.com/SaurabhKumar-97/Pizza_sales_sql_01/blob/5f33e7268181a9bd18eb17172b85203743e78c73/pizzas.csv
 
