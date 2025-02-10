@@ -21,7 +21,10 @@ Analyze the cumulative revenue generated over time.
 Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
 Order_details dataset:- order_details.csv
+
 Order dataset:orders.csv
-Pizza_types dataset:
+
+Pizza_types dataset:pizza_types.csv
+
 Pizzas dataset:
 
